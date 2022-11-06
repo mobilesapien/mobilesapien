@@ -6,10 +6,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobilesapien&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068" alt="mobilesapien" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobilesapien&show_icons=true&locale=en" alt="mobilesapien" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobilesapien&" alt="mobilesapien" /></p>
-
 <a href="https://github.com/mobilesapien"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mobilesapien&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/mobilesapien"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=mobilesapien&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
